@@ -1,0 +1,85 @@
+Q1 What is AngularJS?
+Q2 Why to use AngularJS?
+Q3 Why this project is called "AngularJS"?
+Q4 What are the advantages of AngularJS?
+Q5 How AngularJS is different from other JavaScript Framework?
+Q6 What IDEs you can use for AngularJS development?
+Q7 Does AngularJS has dependency on jQuery?
+Q8 How to use jQuery with AngularJS?
+Q9 Compare the features of AngularJS and jQuery?
+Q10 What is jQLite or jQuery lite?
+Q11 How to access jQLite or jQuery with AngularJS?
+Q12 Is AngularJS a library, framework, plugin or a browser extension?
+Q13 What browsers AngularJS support?
+Q14 What is the size of angularjs file?
+Q15 What are AngularJS features?
+Q16 How AngularJS handle the security?
+Q17 What are Modules in AngularJS?
+Q18 What components can be defined within AngularJS modules?
+Q19 What is core module in AngularJS?
+Q20 How angular modules load the dependencies?
+Q21 What is difference between config() and run() method in AngularJS? 
+Q22 When dependent modules of a module are loaded?
+Q23 What is Global API?
+Q24 What is Angular Prefixes $ and $$?
+Q25 What are Filters in AngularJS?
+Q26 What are Expressions in AngularJS?
+Q27 How AngularJS expressions are different from the JavaScript expressions?
+Q28 What are Directives in AngularJS?
+Q29 What is the role of ng-app, ng-init and ng-model directives?
+Q30 How to create custom directives in AngularJS?
+Q31 What are different ways to invoke a directive?
+Q32 What is restrict option in directive?
+Q33 Can you define multiple restrict options on a directive?
+Q34 What is auto bootstrap process in AngularJS?
+Q35 What is manual bootstrap process in AngularJS?
+Q36 How to bootstrap your angular app for multiple modules?
+Q37 What is scope in AngularJS?
+Q38 What is $scope and $rootScope?
+Q39 What is scope hierarchy?
+Q40 What is the difference between $scope and scope?
+Q41 How AngularJS is compiled?
+Q42 How AngularJS compilation is different from other JavaScript frameworks?
+Q43 How Directives are compiled?
+Q44 What are Compile, Pre, and Post linking in AngularJS?
+Q45 What directives are used to show and hide HTML elements in AngularJS?
+Q46 Explain directives ng-if, ng-switch and ng-repeat?
+Q47 What are ng-repeat special variables?
+Q48 What are Templates in AngularJS?
+Q49 What is ng-include and when to use it?
+Q50 What angular components can be defined within AngularJS templates?
+Q51 What is data binding in AngularJS?
+Q52 Explain Two-way and One-way data binding in AngularJS?
+Q53 What is issue with two-way data binding?
+Q54 How AngularJS handle data binding?
+Q55 What is the difference between $watch, $digest and $apply?
+Q56 Which one is fast between $digest and $apply?
+Q57 Which one handles exception automatically between $digest and $apply?
+Q58 Explain $watch(), $watchgroup() and $watchCollection() functions of scope?
+Q59 Explain AngularJS scope life-cycle?
+Q60 Explain digest life-cycle in AngularJS?
+Q61 When to use $destroy() function of scope?
+Q62 What is difference between $evalAsync and $timeout?
+Q63 What is the difference between $watch and $observe?
+Q64 What is the difference between $parse and $eval?
+Q65 What is Isolate Scope and why it is required?
+Q66 Does AngularJS support MVC?
+Q67 What is Model in AngularJS?
+Q68 What is ViewModel in AngularJS?
+Q69 What is Controller in AngularJS?
+Q70 How to share information between controllers in AngularJS?
+Q71 What is $emit, $broadcast and $on in AngularJS?
+Q72 What is View in AngularJS?
+Q73 How to apply validation in AngularJS?
+Q74 How to do custom form validation in AngularJS?
+Q75 What are different Angular form properties?
+Q76 What are different states of a form in AngularJS?
+Q77 What is Service in AngularJS?
+Q78 What are different ways to create service in AngularJS?
+Q79 What is the difference between Factory, Service and Provider?
+Q80 What is difference between value and constant?
+Q81 What is the difference between $http and $resource?
+Q82 What methods $http service support?
+Q83 How to enable caching in $http service?
+Q84 What methods $resource service object support?
+Q85 What is $q service and when to use it?
