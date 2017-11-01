@@ -24,7 +24,7 @@ Q23 What is Global API?
 Q24 What is Angular Prefixes $ and $$?
 Q25 What are Filters in AngularJS?
 Q26 What are Expressions in AngularJS?
- Q27 How AngularJS expressions are different from the JavaScript expressions?
+Q27 How AngularJS expressions are different from the JavaScript expressions?
 Q28 What are Directives in AngularJS?
 Q29 What is the role of ng-app, ng-init and ng-model directives?
 Q30 How to create custom directives in AngularJS?
@@ -42,7 +42,7 @@ Q41 How AngularJS is compiled?
 Q42 How AngularJS compilation is different from other JavaScript frameworks?
 Q43 How Directives are compiled?
 Q44 What are Compile, Pre, and Post linking in AngularJS?
-  31 Q45 What directives are used to show and hide HTML elements in AngularJS?
+Q45 What directives are used to show and hide HTML elements in AngularJS?
 Q46 Explain directives ng-if, ng-switch and ng-repeat?
 Q47 What are ng-repeat special variables?
 Q48 What are Templates in AngularJS?
